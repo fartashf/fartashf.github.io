@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               'Fartash Faghri Blog'
+tagline:             ''
+description:         ''
+url:                 http://fartashf.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Fartash Faghri
+  url:               https://twitter.com/fartashfg
+  email:             fartash.faghri@gmail.com
+
+github:
+    repo: https://github.com/fartashf
