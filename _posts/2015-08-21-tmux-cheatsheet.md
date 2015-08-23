@@ -1,15 +1,10 @@
 ---
 layout: post
 title: My tmux Cheatsheet
+comments: True
 ---
 
-{% raw %}
-```Bash
-:resize-pane -D/-L/-U/-R 20
-
-restore tmux session
-http://superuser.com/a/615716
-
+```
 http://tmuxcheatsheet.com/ 
 tmux new -s <name>
 C-b ?: show help
@@ -45,6 +40,9 @@ C-b [: start copy mode
 C-b ]: paste
 C-b (): move between sessions
 C-b s: show all sessions
-```
 
-{% endraw %}
+restore tmux session
+http://superuser.com/a/615716
+
+:resize-pane -D/-L/-U/-R 20
+```
