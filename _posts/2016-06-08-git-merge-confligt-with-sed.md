@@ -12,11 +12,11 @@ that the version I wanted to retain was the version referred to as HEAD inside
 the file. I tried correcting the file with VIM then but there were so many 
 conflicts. So I used sed to simply get rid of the conflict messages. 
 
-```bash
+~~~ bash
 sed '/====/,/>>>>/d'
 sed '/<<</d'
 # Use -i to do this in place
-```
+~~~
 
 This 
 [link](https://nixtricks.wordpress.com/2013/01/09/sed-delete-the-lines-lying-in-between-two-patterns/) 

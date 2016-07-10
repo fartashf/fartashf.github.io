@@ -4,7 +4,7 @@ title: My tmux Cheatsheet
 comments: True
 ---
 
-```
+~~~
 http://tmuxcheatsheet.com/ 
 tmux new -s <name>
 C-b ?: show help
@@ -45,4 +45,4 @@ restore tmux session
 http://superuser.com/a/615716
 
 :resize-pane -D/-L/-U/-R 20
-```
+~~~

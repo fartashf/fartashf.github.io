@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installing Package in Debian/Ubuntu Repository for a Single User
+title: Install Package from Debian/Ubuntu Repository for a Single User
 comments: True
 ---
 On shared computers, e.g. compute servers, individual users might not have root 

@@ -31,9 +31,10 @@ comments: True
     * [Mouse Copy](#mouse-copy)
 
 # Motions
+
 ## Starters
 
-```
+~~~
 ctrl-g shows where you are in a file
 cursor history C-o and C-i
 All the right moves http://vim.wikia.com/wiki/All_the_right_moves
@@ -66,10 +67,11 @@ g+ redo in time
 C-6 switch between open buffers
 f<c> jump to next <c>
 F<c> jum to prev <c>
+~~~
 
-```
 ## Motions and Operators
-```
+
+~~~
 c change
 d delete
 y yank
@@ -83,9 +85,11 @@ zf define a fold
 v force the operator to work characterwise
 V force the operator to work linewise
 ctrl-v force the operator to work blockwise
-```
+~~~
+
 ## Left-Right Motions
-```
+
+~~~
 h/l
 0 to the first char of the line
 ^ to the first non-blank char of the line
@@ -101,9 +105,11 @@ F{char} to prev occurrence of char
 t T like f but before and after chars
 ; repeat last f F t T
 , repeat last f F t T in opposite direction
-```
+~~~
+
 ## Up-Down Motions
-```
+
+~~~
 k/j
 gj
 gk
@@ -113,9 +119,11 @@ _ downwards on the first non-blank count-1 times
 G got to line, default last line
 gg go to line, default first line
 {count}% go to percentage in file
-```
+~~~
+
 ## Word Motions
-```
+
+~~~
 w words forward
 W WORDS forward (to the next blank char)
 e forward to the end of word
@@ -124,15 +132,19 @@ b backwards
 B backwards
 ge backwards to the end of word
 gE backwards
-```
+~~~
+
 ## Text Object Motions
-```
+
+~~~
 ( sentence backwards
 ) sentence forwards
 {} paragraphs
-```
+~~~
+
 ## Text Object Selection
-```
+
+~~~
 aw "a word"
 iw "inner word"
 aW "a WORD"
@@ -145,49 +157,63 @@ a[ a] "a [] block"
 a( a) "a () block"
 a< a> "a <> block"
 a{ a} " a {} block"
-a" a' a` "a "'` block"
-```
+a" a' a~ "a "'~ block"
+~~~
+
 ## Marks
-```
-` jump to the location
+
+~~~
+~ jump to the location
 ' jump to the first char of the line
-m' m` set the previous context mark
+m' m~ set the previous context mark
 m{a-zA-Z} set a mark
-'{a-z} `{a-z} jump to mark
+'{a-z} ~{a-z} jump to mark
 :marks
-'[ `[ '] `] to the first or last char of the previously changed
-'' `` to the last jump
-'^ `^ to the last insert
-'. `. to the last change
-```
+'[ ~[ '] ~] to the first or last char of the previously changed
+'' ~~ to the last jump
+'^ ~^ to the last insert
+'. ~. to the last change
+~~~
+
 ## Jumps
-```
+
+~~~
 ctrl-o jump to older position
 <tab> or ctrl-i jump to newer position
-```
+~~~
+
 ## Various motions
-```
+
+~~~
 % find the next item in this line and jump to its match. Item can be ([{}]) /**/ #if ...
 [] + ({[mM  got to next or prev item
 H M L go to home, middle, last line of screen
 
-```
+~~~
+
 ## Traversing text in Insert mode
+
 [http://stackoverflow.com/a/1737259](http://stackoverflow.com/a/1737259)
 
-```
+
+~~~
 Ctrl-w change previous word and stay in insert mode
-```
+~~~
+
 # Folding
+
 ## Starters
-```
+
+~~~
 za toggle
 zo open
 zc close
 zf'a create a fold from current line to mark a
-```
+~~~
+
 ## More
-```
+
+~~~
 zx undo everything and recompute folds
 zM close all folds
 zR open all folds
@@ -207,27 +233,35 @@ zN Fold "normal" set foldenable and restores all folds
 
 zj zk move between folds
 [z ]z move to the start or end of the current fold
-```
+~~~
+
 # pymode keys
-```
+
+~~~
 [M ]M move between methods
 [C ]C move between classes
 ctrl-space completion
-```
+~~~
+
 # vim-unimpaired
-```
+
+~~~
 [l ]l :lprev :lnext
 [q ]q :cprev :cnext
 [b ]b :bprev :bnext
-```
+~~~
+
 # Recording
-```
+
+~~~
 q <letter> starts
 q ends
 @ <letter> replay
-```
+~~~
+
 # Set Flags
-```
+
+~~~
 :set            - shows vars different from defaults
 :set all        - shows all values
 :set foo?       - shows the value of foo
@@ -235,12 +269,14 @@ q ends
 :set foo-=opt   - remove opt from value
 :set foo&       - reset foo to default value
 :setlocal foo   - only the current buffer
-```
+~~~
 
 # Split
+
 [https://technotales.wordpress.com/2010/04/29/vim-splits-a-guide-to-doing-exactly-what-you-want/](https://technotales.wordpress.com/2010/04/29/vim-splits-a-guide-to-doing-exactly-what-you-want/)
 
-```
+
+~~~
 :topleft new
 window  horizontal  up      -->   :topleft    split
 window  horizontal  down    -->   :botright   split
@@ -250,38 +286,46 @@ buffer  horizontal  up      -->   :leftabove  split
 buffer  horizontal  down    -->   :rightbelow split
 buffer  vertical    left    -->   :leftabove  vsplit
 buffer  vertical    right   -->   :rightbelow vsplit
-```
+~~~
 
 # Misc.
+
 ## Making a list of numbers
+
 [http://vim.wikia.com/wiki/Making_a_list_of_numbers](http://vim.wikia.com/wiki/Making_a_list_of_numbers)
 
-```
+
+~~~
 :put =range(11,15)
 :put =map(range(1,150), 'printf(''%04d'', v:val)')
 :for i in range(1,10) | put ='192.168.0.'.i | endfor
-```
+~~~
 
 ## Enclose A Word
-```
+
+~~~
 ciw(Ctrl+r")
-```
+~~~
 
 ## Replace A Word With A Register
+
 In general, select with visual mode then use other commands to replace
+
 [http://vim.wikia.com/wiki/Replace_a_word_with_yanked_text ](http://vim.wikia.com/wiki/Replace_a_word_with_yanked_text )
 
-```
+~~~
 viwp
-```
+~~~
 
 ## Mouse Copy
-```
+
+~~~
 :set all&
 :redraw!
 :set cc=""
-```
-```
+~~~
+
+~~~
 :set paste/nopaste
 vim broken arrow keys -> :!reset
 vim :diffthis similar to vimdiff
@@ -293,4 +337,4 @@ r: replace character
 http://unix.stackexchange.com/questions/22590/block-editing-live-in-emacs-or-vim 
 Start and end selection in positions outside the text
 :set virtualedit=block
-```
+~~~
