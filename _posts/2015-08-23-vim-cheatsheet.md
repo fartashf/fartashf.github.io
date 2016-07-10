@@ -32,6 +32,7 @@ comments: True
 
 # Motions
 ## Starters
+
 ```
 ctrl-g shows where you are in a file
 cursor history C-o and C-i
