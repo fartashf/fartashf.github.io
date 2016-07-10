@@ -17,9 +17,16 @@ author:
   name:              Fartash Faghri
   url:               https://twitter.com/fartashfg
   email:             fartash.faghri@gmail.com
+twitter_username: fartashfg
+github_username: fartashf
 
 github:
     repo: https://github.com/fartashf
 
-markdown: kramdown
 gems: [jekyll-paginate]
+markdown: kramdown
+highlighter: rouge
+kramdown:
+    input: GFM
+    auto_ids: true
+    syntax_highlighter: rouge
