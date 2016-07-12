@@ -4,7 +4,8 @@ title: Install Package from Debian/Ubuntu Repository for a Single User
 comments: True
 ---
 On shared computers, e.g. compute servers, individual users might not have root 
-access to install packages. Here are the steps:
+access to install packages. The following steps show how to install such 
+a package locally.
 
 * `dpkg-query -s <PKG_NAME>`: check if it is already installed
 * `apt-get download <PKG_NAME>`: download the right version of the deb package 

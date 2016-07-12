@@ -3,11 +3,11 @@ layout: post
 title: Git commit old files with their timestamp
 comments: True
 ---
-I had a set of files that unfortunately, I was not keeping track of their 
-changes with git. Actually, the only thing that mattered to me was their last 
-modification date because I usually would write them once and never change them 
-afterwards. Anyway, I wanted to put them in a git repository and preserve their 
-timestamp as well. So I wrote this one line of bash to do it: 
+
+I had a set of files that I wanted to put them in a git repository in a way 
+  that would preserve their time-stamp.  The only thing that mattered to me was 
+  their last modification date because I would usually write them once and 
+  never change them afterwards.  Here is one line of Bash that does the job.  
 
 ~~~ bash
 find -name '*.prototxt' -exec stat --printf "%Y %n\n" '{}' \; | sort |\

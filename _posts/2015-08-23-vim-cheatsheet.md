@@ -1,8 +1,17 @@
 ---
 layout: post
-title: My VIM Cheatsheet
+title: My VIM Cheat-sheet
 comments: True
 ---
+
+What I enjoy the most in VIM is how commands get combined to do complicated 
+tasks. I don't need to hold multiple keys to do every single task, I can type 
+letters as if I'm talking to the editor. Here are some beautiful examples 
+before diving into my cheat-sheet:
+
+- `ya(` Yank text Around ()
+- `ctr-v 10j shift-i #### ESC` Visual block mode, select 10 lines below, insert 
+  at the beginning, ####, done. And you've got a special comment section.
 
   * [Motions](#motions)
     * [Starters](#starters)

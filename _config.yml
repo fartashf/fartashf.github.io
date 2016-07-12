@@ -5,7 +5,7 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               "Fartash Faghri's Blog"
+title:               "Fartash Faghri's Tricks"
 tagline:             ''
 description:         ''
 url:                 http://fartashf.github.io
@@ -30,3 +30,4 @@ kramdown:
     input: GFM
     auto_ids: true
     syntax_highlighter: rouge
+    hard_wrap: false

@@ -1,8 +1,17 @@
 ---
 layout: post
-title: My tmux Cheatsheet
+title: My tmux Cheat-sheet
 comments: True
 ---
+
+The moment I heard about `tmux`, I knew that all the trouble of working with 
+`screen` was over. The most stupid thing about `screen` is that `ctrl-a`, such 
+a frequently used combination, is replaced. Some of the most beautiful things 
+about `tmux` before listing my cheat-sheet:
+
+- Easy to name windows, and move them.
+- Panes
+- VIM mode in copy mode.
 
 ~~~
 http://tmuxcheatsheet.com/ 
@@ -34,9 +43,9 @@ C-b !: convert pane into a window
 C-b ;: change to last pane
 C-b t: show time
 C-b [: start copy mode
-	space: start selection
-	Escape: clear selection
-	Enter: copy selection or exit copy mode
+  space: start selection
+  Escape: clear selection
+  Enter: copy selection or exit copy mode
 C-b ]: paste
 C-b (): move between sessions
 C-b s: show all sessions
