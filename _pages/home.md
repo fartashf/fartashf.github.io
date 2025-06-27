@@ -1,10 +1,10 @@
 ---
-#permalink: /
+permalink: /
 # title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-#author_profile: true
+author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 Fartash Faghri is a machine learning researcher at Apple Machine Learning 
@@ -15,3 +15,8 @@ on-device foundation models, and designing benchmarks and novel strategies for
 large-scale continual learning. Fartash joined Apple in 2021 following the 
 completion of his PhD at the University of Toronto. His doctoral research 
 delved into the development of fast and robust training methods.
+
+News
+----
+* 2025/06/24: [TiC-LM](https://machinelearning.apple.com/research/tic-lm-web-scale) is selected for **Oral presentation (Top 8%)** at ACL 2025 in Vienna, Austria.
+* 2025/06/14: [FastVLM](https://machinelearning.apple.com/research/fastvlm-efficient-vision-encoding) will be presented at CVPR 2025.
