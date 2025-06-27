@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,27 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, University of Toronto, 2017 - 2021
+  * Supervisor: [David Fleet](http://www.cs.toronto.edu/~fleet/)
+  * Thesis: [Training Efficiency and Robustness in Deep Learning](https://www.proquest.com/openview/a55a46d2e5040894dcd13ca59c35a197/1?pq-origsite=gscholar&cbl=18750&diss=y)
+* M.Sc. in Computer Science, University of Toronto, 2013 - 2014
+  * Supervisor: [David Fleet](http://www.cs.toronto.edu/~fleet/)
+* B.Sc. in Computer Engineering, Sharif University of Technology, 2008 - 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Apple, 2021 - Present
+  * Senior Machine Learning Researcher
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Google Brain
+  * Research Intern, 2020
+  * Research Intern, 2017
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Architech Inc., 2015 - 2016
+  * Lead Research Scientist
+
+* Slyce Inc., 2014 - 2015
+  * Machine Learning Researcher
+
+Selected Honors and Awards
+======
+* 2020-2021 Ontario Graduate Scholarship (OGS) at the University of Toronto
+* 14th team in the ACM-ICPC ECNA Regional Contest, 2013
+* 11th place in Iranian graduate school entrance exam in AI among 10000s, 2011
+* 8th team in the ACM-ICPC Asia Regional Contest, 2009
+* Gold medal in the Iranian National Olympiad in Informatics, 2007
+
+<!---
 Skills
 ======
 * Skill 1
@@ -62,3 +72,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
