@@ -20,3 +20,6 @@ News
 ----
 * 2025/06/24: [TiC-LM](https://machinelearning.apple.com/research/tic-lm-web-scale) is selected for **Oral presentation (Top 8%)** at ACL 2025 in Vienna, Austria.
 * 2025/06/14: [FastVLM](https://machinelearning.apple.com/research/fastvlm-efficient-vision-encoding) will be presented at CVPR 2025.
+* 2024/12/13: [DataComp-LM](https://www.datacomp.ai/dclm/) will be presented at NeurIPS 2024.
+* 2024/06/20: [MobileCLIP](https://machinelearning.apple.com/research/mobileclip) will be presented at CVPR 2024.
+* 2024/05/10: [TiC-CLIP](https://arxiv.org/abs/2310.16226) will be presented at ICLR 2024.
