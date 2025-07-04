@@ -33,6 +33,17 @@ Work experience
 * Slyce Inc., 2014 - 2015
   * Machine Learning Researcher
 
+Professional Services
+======
+**Area Chair**
+* CVPR 2024-2025
+
+**Organizer**
+* [NeurIPS 2025 CCFM Workshop](https://sites.google.com/view/ccfm2025)
+
+**Program Committee / Reviewer**
+* NeurIPS, ICML, ICLR, ACL, ECCV, AISTATS, TMLR.
+
 Selected Honors and Awards
 ======
 * 2020-2021 Ontario Graduate Scholarship (OGS) at the University of Toronto

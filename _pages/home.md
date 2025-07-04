@@ -18,7 +18,8 @@ delved into the development of fast and robust training methods.
 
 News
 ----
-* 2025/06/24: [TiC-LM](https://machinelearning.apple.com/research/tic-lm-web-scale) is selected for **Oral presentation (Top 8%)** at ACL 2025 in Vienna, Austria.
+* 2025/07/04: [CCFM](https://sites.google.com/view/ccfm2025) is officially a NeurIPS 2025 workshop. [Call for papers](https://sites.google.com/view/ccfm2025/call-for-papers) on continual and compatible foundation model updates.
+* 2025/06/24: [TiC-LM](https://machinelearning.apple.com/research/tic-lm-web-scale) will be an **Oral presentation (Top 8%)** at ACL 2025.
 * 2025/06/14: [FastVLM](https://machinelearning.apple.com/research/fastvlm-efficient-vision-encoding) will be presented at CVPR 2025.
 * 2024/12/13: [DataComp-LM](https://www.datacomp.ai/dclm/) will be presented at NeurIPS 2024.
 * 2024/06/20: [MobileCLIP](https://machinelearning.apple.com/research/mobileclip) will be presented at CVPR 2024.
