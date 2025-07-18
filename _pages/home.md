@@ -18,6 +18,7 @@ delved into the development of fast and robust training methods.
 
 News
 ----
+* 2025/07/18: Delivering an keynote at the [ICML 2025 TTODLer-FM workshop](https://ttodlerfm.gitlab.io), discussing ["Enabling Frontier AI Experiences on the Edge"](https://ttodlerfm.gitlab.io/talks/enabling_frontier_ai_experiences_on_the_edge/).
 * 2025/07/04: [CCFM](https://sites.google.com/view/ccfm-neurips2025) is officially a NeurIPS 2025 workshop. [Call for papers](https://sites.google.com/view/ccfm2025/call-for-papers) on continual and compatible foundation model updates.
 * 2025/06/24: [TiC-LM](https://machinelearning.apple.com/research/tic-lm-web-scale) will be an **Oral presentation (Top 8%)** at ACL 2025.
 * 2025/06/14: [FastVLM](https://machinelearning.apple.com/research/fastvlm-efficient-vision-encoding) will be presented at CVPR 2025.
