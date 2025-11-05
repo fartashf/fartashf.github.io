@@ -18,9 +18,9 @@ delved into the development of fast and robust training methods.
 
 News
 ----
-* 2025/10/21: MobileCLIP2 received <mark>J2C Certification</mark> and will be presented at ICLR 2026.
+* 2025/10/21: MobileCLIP2 received **J2C Certification** and will be presented at ICLR 2026.
 * 2025/08/28: MobileCLIP2 [models](https://huggingface.co/collections/apple/mobileclip2-68ac947dcb035c54bcd20c47) are released as well as our V2 training code ([ml-mobileclip](https://github.com/apple/ml-mobileclip)) and data generation code ([ml-mobileclip-dr](https://github.com/apple/ml-mobileclip-dr)).
-* 2025/07/22: MobileCLIP2 accepted to TMLR with <mark>Featured Certification</mark>.
+* 2025/07/22: MobileCLIP2 accepted to TMLR with **Featured Certification**.
 * 2025/07/18: Delivering a keynote at the [ICML 2025 TTODLer-FM workshop](https://ttodlerfm.gitlab.io), discussing ["Enabling Frontier AI Experiences on the Edge"](https://ttodlerfm.gitlab.io/talks/enabling_frontier_ai_experiences_on_the_edge/).
 * 2025/07/04: [CCFM](https://sites.google.com/view/ccfm-neurips2025) is officially a NeurIPS 2025 workshop. [Call for papers](https://sites.google.com/view/ccfm2025/call-for-papers) on continual and compatible foundation model updates.
 * 2025/06/24: [TiC-LM](https://machinelearning.apple.com/research/tic-lm-web-scale) will be an **Oral presentation (Top 8%)** at ACL 2025.
