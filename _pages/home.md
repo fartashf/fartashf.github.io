@@ -18,6 +18,7 @@ delved into the development of fast and robust training methods.
 
 News
 ----
+* 2025/12/07: [NeurIPS 2025 CCFM Workshop](https://sites.google.com/view/ccfm-neurips2025) held on continual and compatible foundation model updates.
 * 2025/10/21: MobileCLIP2 received **J2C Certification** and will be presented at ICLR 2026.
 * 2025/08/28: MobileCLIP2 [models](https://huggingface.co/collections/apple/mobileclip2-68ac947dcb035c54bcd20c47) are released as well as our V2 training code ([ml-mobileclip](https://github.com/apple/ml-mobileclip)) and data generation code ([ml-mobileclip-dr](https://github.com/apple/ml-mobileclip-dr)).
 * 2025/07/22: MobileCLIP2 accepted to TMLR with **Featured Certification**.

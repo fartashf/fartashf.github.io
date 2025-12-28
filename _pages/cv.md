@@ -36,13 +36,15 @@ Work experience
 Professional Services
 ======
 **Area Chair**
-* CVPR 2024-2025
+* CVPR 2024-2026
+* ICML 2026
+* ICLR 2026
 
 **Organizer**
 * [NeurIPS 2025 CCFM Workshop](https://sites.google.com/view/ccfm-neurips2025)
 
-**Program Committee / Reviewer**
-* NeurIPS, ICML, ICLR, ACL, ECCV, AISTATS, TMLR.
+**Reviewer**
+* ICLR 2019-2025, NeurIPS 2020-2025, ICML 2021-2025, CVPR 2022-2023, ACL 2025, ECCV 2020, ICCV 2021, AISTATS 2022, TMLR 2022-2023.
 
 Selected Honors and Awards
 ======
