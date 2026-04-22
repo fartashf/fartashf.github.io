@@ -36,15 +36,16 @@ Work experience
 Professional Services
 ======
 **Area Chair**
-* CVPR 2024-2026
-* ICML 2026
-* ICLR 2026
+* CVPR 2024-2026, NeurIPS 2026, ICML 2026, ICLR 2026, CoLLAs 2026
 
 **Organizer**
 * [NeurIPS 2025 CCFM Workshop](https://sites.google.com/view/ccfm-neurips2025)
 
+**Keynote**
+* [ICML 2025 TTODLer-FM Workshop](https://ttodlerfm.gitlab.io), "Enabling Frontier AI Experiences on the Edge"
+
 **Reviewer**
-* ICLR 2019-2025, NeurIPS 2020-2025, ICML 2021-2025, CVPR 2022-2023, ACL 2025, ECCV 2020, ICCV 2021, AISTATS 2022, TMLR 2022-2023.
+* ICLR 2019-2025, NeurIPS 2020-2025, ICML 2021-2025, CVPR 2022-2023, ACL 2025, EACL 2026, ECCV 2020, ICCV 2021, AISTATS 2022, TMLR 2022-2023.
 
 Selected Honors and Awards
 ======
