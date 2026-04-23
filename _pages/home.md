@@ -19,8 +19,6 @@ delved into the development of fast and robust training methods.
 News
 ----
 * 2026/06/01: [VSAS-Bench](https://arxiv.org/abs/2604.07634) accepted to Findings of CVPR 2026.
-* 2026/06/01: [AMUSE](https://arxiv.org/abs/2512.16250) accepted to CVPR 2026.
-* 2026/05/01: [Data-Centric Lessons To Improve Speech-Language Pretraining](https://arxiv.org/abs/2510.20860) accepted to ICLR 2026.
 * 2026/04/21: MobileCLIP2 data released: [DFNDR-12M](https://huggingface.co/datasets/apple/DFNDR-12M) and [DFNDR-2B](https://huggingface.co/datasets/apple/DFNDR-2B).
 * 2025/12/07: Organized [NeurIPS 2025 CCFM Workshop](https://sites.google.com/view/ccfm-neurips2025) on continual and compatible foundation model updates.
 * 2025/10/21: MobileCLIP2 received **J2C Certification** and will be presented at ICLR 2026.
