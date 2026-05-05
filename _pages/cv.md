@@ -21,6 +21,7 @@ Education
 Work experience
 ======
 * Apple, 2021 - Present
+  * Staff Machine Learning Researcher
   * Senior Machine Learning Researcher
 
 * Google Brain
